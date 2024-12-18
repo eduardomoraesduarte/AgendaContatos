@@ -12,8 +12,6 @@ public class Contatos {
 	
 	
 	public Contatos(Integer id, String nome, String email, String fone) {
-		super();
-		this.id = id;
 		this.nome = nome;
 		this.email = email;
 		this.fone = fone;
